@@ -1,4 +1,4 @@
-![MasterHead]([https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=1060&t=st=1698442927~exp=1698443527~hmac=42e97917c996f4df94bfe51c7991bbf61c212cce920e1b976fa80a7e9c81f403](https://www.freepik.com/premium-vector/futuristic-background-with-big-data-network-illustration_36238719.htm#fromView=keyword&page=1&position=11&uuid=af8457b0-d7f8-4385-bb5e-29a99fafd877&query=Data+Banner))
+![MasterHead](https://www.freepik.com/premium-vector/futuristic-background-with-big-data-network-illustration_36238719.htm#fromView=keyword&page=1&position=11&uuid=af8457b0-d7f8-4385-bb5e-29a99fafd877&query=Data+Banner)
 <h1 align="center">Hi 👋, I'm Esther Ojinji</h1>
 <h3 align="center">A digital marketer transitioning to the exciting world of data. My journey involves expanding my skill set with a focus on data analysis, visualization, cloud computing, and Python programming. My ultimate goal? To leverage this newfound expertise to enhance business strategies and decisions through data-driven insights.</h3>
 
