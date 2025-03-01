@@ -1,4 +1,4 @@
-
+![gitbanner](https://github.com/[Estelle200]/[Esther-Ojinji]/blob/[main]/gitbanner.jpg?raw=true)
 <h2 align="center">Hi 👋, I'm Esther Ojinji</h2>
 <h5 align="center">A Data Analyst, also studying Information Engineering. My journey involves expanding my skill set with a focus on data analysis, visualization, cloud computing, and Python programming. My goal is to pursue a career in data analysis, where I can combine my engineering background and analytical skills to make a tangible impact in solving real-world business problems.</h5>
 
