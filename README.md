@@ -1,23 +1,17 @@
-![MasterHead](https://www.freepik.com/premium-vector/futuristic-background-with-big-data-network-illustration_36238719.htm#fromView=keyword&page=1&position=11&uuid=af8457b0-d7f8-4385-bb5e-29a99fafd877&query=Data+Banner)
+![https://www.freepik.com/premium-vector/futuristic-background-with-big-data-network-illustration_36238719.htm#fromView=keyword&page=1&position=11&uuid=af8457b0-d7f8-4385-bb5e-29a99fafd877&query=Data+Banner](https://www.freepik.com/premium-vector/futuristic-background-with-big-data-network-illustration_36238719.htm#fromView=keyword&page=1&position=11&uuid=af8457b0-d7f8-4385-bb5e-29a99fafd877&query=Data+Banner)
 <h1 align="center">Hi 👋, I'm Esther Ojinji</h1>
-<h3 align="center">A digital marketer transitioning to the exciting world of data. My journey involves expanding my skill set with a focus on data analysis, visualization, cloud computing, and Python programming. My ultimate goal? To leverage this newfound expertise to enhance business strategies and decisions through data-driven insights.</h3>
+<h3 align="center">A Data Analyst, also studying Information Engineering. My journey involves expanding my skill set with a focus on data analysis, visualization, cloud computing, and Python programming. My goal is to pursue a career in data analysis, where I can combine my engineering background and analytical skills to make a tangible impact in solving real-world business problems.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvernyuyn&label=Profile%20views&color=0e75b6&style=flat" alt="bvernyuyn" /> </p>
 
-- 🌱 I’m currently learning **Devops and cloud computing AWS,Azure**
+- 💬 Ask me about **Python,SQL,Tableau,Excel,Pandas**
 
-- 📝 I regularly write articles on [https://medium.com/@frijohn63](https://medium.com/@frijohn63)
+- 📫 How to reach me **estherojinji@gmail.com**
 
-- 💬 Ask me about **Python,Web Design,SQL,PowerBi,Excel,Pandas**
+- ⚡ Fun fact **There is always something new to learn.**
 
-- 📫 How to reach me **frijohn63@gmail.com**
 
-- ⚡ Fun fact **keep doing till i get it rigth**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
